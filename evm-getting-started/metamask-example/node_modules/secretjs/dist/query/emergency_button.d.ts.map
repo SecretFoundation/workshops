@@ -1,0 +1,1 @@
+{"version":3,"file":"emergency_button.d.ts","sourceRoot":"","sources":["../../src/query/emergency_button.ts"],"names":[],"mappings":"AAAA,OAAO,EAEL,aAAa,EACb,cAAc,EACf,MAAM,yDAAyD,CAAC;AAEjE,qBAAa,sBAAsB;IACrB,OAAO,CAAC,GAAG;gBAAH,GAAG,EAAE,MAAM;IAE/B,MAAM,CACJ,GAAG,EAAE,aAAa,EAClB,OAAO,CAAC,EAAE,WAAW,GACpB,OAAO,CAAC,cAAc,CAAC;CAM3B"}

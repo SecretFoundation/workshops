@@ -1,0 +1,1 @@
+{"version":3,"file":"genesis.pb.d.ts","sourceRoot":"","sources":["../../../../../../src/grpc_gateway/ibc/applications/transfer/v1/genesis.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,iCAAiC,MAAM,eAAe,CAAA;AAClE,oBAAY,YAAY,GAAG;IACzB,OAAO,CAAC,EAAE,MAAM,CAAA;IAChB,YAAY,CAAC,EAAE,iCAAiC,CAAC,UAAU,EAAE,CAAA;IAC7D,MAAM,CAAC,EAAE,iCAAiC,CAAC,MAAM,CAAA;CAClD,CAAA"}

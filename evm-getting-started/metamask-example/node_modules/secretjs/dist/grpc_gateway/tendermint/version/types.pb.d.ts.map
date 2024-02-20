@@ -1,0 +1,1 @@
+{"version":3,"file":"types.pb.d.ts","sourceRoot":"","sources":["../../../../src/grpc_gateway/tendermint/version/types.pb.ts"],"names":[],"mappings":"AAKA,oBAAY,GAAG,GAAG;IAChB,QAAQ,CAAC,EAAE,MAAM,CAAA;IACjB,QAAQ,CAAC,EAAE,MAAM,CAAA;CAClB,CAAA;AAED,oBAAY,SAAS,GAAG;IACtB,KAAK,CAAC,EAAE,MAAM,CAAA;IACd,GAAG,CAAC,EAAE,MAAM,CAAA;CACb,CAAA"}

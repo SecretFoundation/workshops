@@ -1,0 +1,1 @@
+{"version":3,"file":"genesis.pb.d.ts","sourceRoot":"","sources":["../../../../../src/grpc_gateway/cosmos/feegrant/v1beta1/genesis.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,6BAA6B,MAAM,eAAe,CAAA;AAC9D,oBAAY,YAAY,GAAG;IACzB,UAAU,CAAC,EAAE,6BAA6B,CAAC,KAAK,EAAE,CAAA;CACnD,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"viewing_key.d.ts","sourceRoot":"","sources":["../../../../src/extensions/snip1155/types/viewing_key.ts"],"names":[],"mappings":"AAAA,aAAK,gBAAgB,GAAG;IACtB,kBAAkB,EAAE;QAClB,OAAO,EAAE,MAAM,CAAC;QAChB,OAAO,CAAC,EAAE,MAAM,CAAC;KAClB,CAAC;CACH,CAAC;AAEF,aAAK,aAAa,GAAG;IACnB,eAAe,EAAE;QACf,GAAG,EAAE,MAAM,CAAC;QACZ,OAAO,CAAC,EAAE,MAAM,CAAC;KAClB,CAAC;CACH,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"keys.pb.d.ts","sourceRoot":"","sources":["../../../../../src/grpc_gateway/cosmos/crypto/secp256r1/keys.pb.ts"],"names":[],"mappings":"AAKA,oBAAY,MAAM,GAAG;IACnB,GAAG,CAAC,EAAE,UAAU,CAAA;CACjB,CAAA;AAED,oBAAY,OAAO,GAAG;IACpB,MAAM,CAAC,EAAE,UAAU,CAAA;CACpB,CAAA"}

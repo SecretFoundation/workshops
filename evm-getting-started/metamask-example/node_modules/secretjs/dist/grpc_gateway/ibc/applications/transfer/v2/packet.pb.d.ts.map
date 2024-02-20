@@ -1,0 +1,1 @@
+{"version":3,"file":"packet.pb.d.ts","sourceRoot":"","sources":["../../../../../../src/grpc_gateway/ibc/applications/transfer/v2/packet.pb.ts"],"names":[],"mappings":"AAKA,oBAAY,uBAAuB,GAAG;IACpC,KAAK,CAAC,EAAE,MAAM,CAAA;IACd,MAAM,CAAC,EAAE,MAAM,CAAA;IACf,MAAM,CAAC,EAAE,MAAM,CAAA;IACf,QAAQ,CAAC,EAAE,MAAM,CAAA;IACjB,IAAI,CAAC,EAAE,MAAM,CAAA;CACd,CAAA"}

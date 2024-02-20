@@ -1,0 +1,1 @@
+{"version":3,"file":"ack.pb.d.ts","sourceRoot":"","sources":["../../../../../../src/grpc_gateway/ibc/applications/fee/v1/ack.pb.ts"],"names":[],"mappings":"AAKA,oBAAY,2BAA2B,GAAG;IACxC,mBAAmB,CAAC,EAAE,UAAU,CAAA;IAChC,uBAAuB,CAAC,EAAE,MAAM,CAAA;IAChC,sBAAsB,CAAC,EAAE,OAAO,CAAA;CACjC,CAAA"}

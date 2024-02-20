@@ -1,0 +1,1 @@
+{"version":3,"file":"node.d.ts","sourceRoot":"","sources":["../../src/query/node.ts"],"names":[],"mappings":"AAAA,OAAO,EAEL,aAAa,EACb,cAAc,EACf,MAAM,mDAAmD,CAAC;AAE3D,qBAAa,WAAW;IACV,OAAO,CAAC,GAAG;gBAAH,GAAG,EAAE,MAAM;IAE/B,MAAM,CAAC,GAAG,EAAE,aAAa,EAAE,OAAO,CAAC,EAAE,WAAW,GAAG,OAAO,CAAC,cAAc,CAAC;CAM3E"}

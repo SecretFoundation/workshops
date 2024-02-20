@@ -1,0 +1,1 @@
+{"version":3,"file":"mauth.d.ts","sourceRoot":"","sources":["../../src/query/mauth.ts"],"names":[],"mappings":"AAAA,OAAO,EAEL,wCAAwC,EACxC,yCAAyC,EAC1C,MAAM,iDAAiD,CAAC;AAEzD,qBAAa,YAAY;IACX,OAAO,CAAC,GAAG;gBAAH,GAAG,EAAE,MAAM;IAE/B,4BAA4B,CAC1B,GAAG,EAAE,wCAAwC,EAC7C,OAAO,CAAC,EAAE,WAAW,GACpB,OAAO,CAAC,yCAAyC,CAAC;CAMtD"}

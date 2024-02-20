@@ -1,0 +1,1 @@
+{"version":3,"file":"evidence.pb.d.ts","sourceRoot":"","sources":["../../../../../src/grpc_gateway/cosmos/evidence/v1beta1/evidence.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,uBAAuB,MAAM,uCAAuC,CAAA;AAChF,oBAAY,YAAY,GAAG;IACzB,MAAM,CAAC,EAAE,MAAM,CAAA;IACf,IAAI,CAAC,EAAE,uBAAuB,CAAC,SAAS,CAAA;IACxC,KAAK,CAAC,EAAE,MAAM,CAAA;IACd,iBAAiB,CAAC,EAAE,MAAM,CAAA;CAC3B,CAAA"}

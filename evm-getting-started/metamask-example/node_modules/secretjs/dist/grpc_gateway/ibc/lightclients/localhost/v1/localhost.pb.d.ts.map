@@ -1,0 +1,1 @@
+{"version":3,"file":"localhost.pb.d.ts","sourceRoot":"","sources":["../../../../../../src/grpc_gateway/ibc/lightclients/localhost/v1/localhost.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,qBAAqB,MAAM,mCAAmC,CAAA;AAC1E,oBAAY,WAAW,GAAG;IACxB,QAAQ,CAAC,EAAE,MAAM,CAAA;IACjB,MAAM,CAAC,EAAE,qBAAqB,CAAC,MAAM,CAAA;CACtC,CAAA"}

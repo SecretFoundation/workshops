@@ -1,0 +1,1 @@
+{"version":3,"file":"curate.d.ts","sourceRoot":"","sources":["../../../../src/extensions/snip1155/types/curate.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,QAAQ,CAAC;AAE7C,oBAAY,2BAA2B,GAAG;IACxC,gBAAgB,EAAE;QAChB,cAAc,EAAE,mBAAmB,EAAE,CAAC;QACtC,IAAI,CAAC,EAAE,MAAM,CAAC;QACd,OAAO,CAAC,EAAE,MAAM,CAAC;KAClB,CAAC;CACH,CAAC"}

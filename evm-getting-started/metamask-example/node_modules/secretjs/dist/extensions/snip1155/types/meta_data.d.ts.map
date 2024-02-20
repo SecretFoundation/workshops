@@ -1,0 +1,1 @@
+{"version":3,"file":"meta_data.d.ts","sourceRoot":"","sources":["../../../../src/extensions/snip1155/types/meta_data.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,QAAQ,CAAC;AAElC,oBAAY,6BAA6B,GAAG;IAC1C,eAAe,EAAE;QACf,QAAQ,EAAE,MAAM,CAAC;QACjB,eAAe,CAAC,EAAE,QAAQ,CAAC;QAC3B,gBAAgB,CAAC,EAAE,QAAQ,CAAC;KAC7B,CAAC;CACH,CAAC"}

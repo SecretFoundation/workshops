@@ -1,0 +1,1 @@
+{"version":3,"file":"authz.pb.d.ts","sourceRoot":"","sources":["../../../../../src/grpc_gateway/cosmos/bank/v1beta1/authz.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,qBAAqB,MAAM,4BAA4B,CAAA;AACnE,oBAAY,iBAAiB,GAAG;IAC9B,WAAW,CAAC,EAAE,qBAAqB,CAAC,IAAI,EAAE,CAAA;CAC3C,CAAA"}

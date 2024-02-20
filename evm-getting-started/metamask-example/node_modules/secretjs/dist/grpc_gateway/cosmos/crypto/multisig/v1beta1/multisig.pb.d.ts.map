@@ -1,0 +1,1 @@
+{"version":3,"file":"multisig.pb.d.ts","sourceRoot":"","sources":["../../../../../../src/grpc_gateway/cosmos/crypto/multisig/v1beta1/multisig.pb.ts"],"names":[],"mappings":"AAKA,oBAAY,cAAc,GAAG;IAC3B,UAAU,CAAC,EAAE,UAAU,EAAE,CAAA;CAC1B,CAAA;AAED,oBAAY,eAAe,GAAG;IAC5B,iBAAiB,CAAC,EAAE,MAAM,CAAA;IAC1B,KAAK,CAAC,EAAE,UAAU,CAAA;CACnB,CAAA"}

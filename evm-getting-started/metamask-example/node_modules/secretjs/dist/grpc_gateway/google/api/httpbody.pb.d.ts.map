@@ -1,0 +1,1 @@
+{"version":3,"file":"httpbody.pb.d.ts","sourceRoot":"","sources":["../../../../src/grpc_gateway/google/api/httpbody.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,iBAAiB,MAAM,oBAAoB,CAAA;AACvD,oBAAY,QAAQ,GAAG;IACrB,YAAY,CAAC,EAAE,MAAM,CAAA;IACrB,IAAI,CAAC,EAAE,UAAU,CAAA;IACjB,UAAU,CAAC,EAAE,iBAAiB,CAAC,GAAG,EAAE,CAAA;CACrC,CAAA"}

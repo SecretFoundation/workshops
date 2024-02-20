@@ -1,11 +1,15 @@
-import { SecretNetworkClient, Wallet, coinsFromString } from "secretjs";
+import { SecretNetworkClient, Wallet } from "secretjs";
 import * as fs from "fs";
 import dotenv from "dotenv";
 dotenv.config();
 
-const wallet = new Wallet(process.env.MNEMONIC);
+const wallet = new Wallet(
+  "desk pigeon hammer sleep only mistake stool december offer patrol once vacant"
+);
 
-const contract_wasm = fs.readFileSync("./contract.wasm");
+const contract_wasm = fs.readFileSync(
+  "../secret-contract-example/contract.wasm.gz"
+);
 
 const secretjs = new SecretNetworkClient({
   chainId: "pulsar-3",
@@ -56,8 +60,8 @@ let instantiate_contract = async () => {
       code_id: codeId,
       sender: wallet.address,
       code_hash: contractCodeHash,
-      init_msg: { count: 5 },
-      label: "submessages example " + Math.ceil(Math.random() * 10000),
+      init_msg: { count: 0 },
+      label: "counter contract example " + Math.ceil(Math.random() * 10000),
     },
     {
       gasLimit: 400_000,
@@ -81,4 +85,4 @@ upload_contract()
     console.error("Error:", error);
   });
 
-  console.log("test")
+console.log("test");

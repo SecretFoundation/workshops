@@ -1,0 +1,1 @@
+{"version":3,"file":"account.pb.d.ts","sourceRoot":"","sources":["../../../../../../src/grpc_gateway/ibc/applications/interchain_accounts/v1/account.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,qBAAqB,MAAM,yCAAyC,CAAA;AAChF,oBAAY,iBAAiB,GAAG;IAC9B,YAAY,CAAC,EAAE,qBAAqB,CAAC,WAAW,CAAA;IAChD,aAAa,CAAC,EAAE,MAAM,CAAA;CACvB,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"emergency_button.js","sourceRoot":"","sources":["../../src/query/emergency_button.ts"],"names":[],"mappings":";;;AAAA,sFAIiE;AAEjE,MAAa,sBAAsB;IACjC,YAAoB,GAAW;QAAX,QAAG,GAAH,GAAG,CAAQ;IAAG,CAAC;IAEnC,MAAM,CACJ,GAAkB,EAClB,OAAqB;QAErB,OAAO,gBAAK,CAAC,MAAM,CAAC,GAAG,EAAE;YACvB,OAAO;YACP,UAAU,EAAE,IAAI,CAAC,GAAG;SACrB,CAAC,CAAC;IACL,CAAC;CACF;AAZD,wDAYC"}

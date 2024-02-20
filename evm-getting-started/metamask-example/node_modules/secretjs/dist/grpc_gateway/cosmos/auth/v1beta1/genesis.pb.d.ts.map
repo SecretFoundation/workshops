@@ -1,0 +1,1 @@
+{"version":3,"file":"genesis.pb.d.ts","sourceRoot":"","sources":["../../../../../src/grpc_gateway/cosmos/auth/v1beta1/genesis.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,iBAAiB,MAAM,iCAAiC,CAAA;AACpE,OAAO,KAAK,qBAAqB,MAAM,WAAW,CAAA;AAClD,oBAAY,YAAY,GAAG;IACzB,MAAM,CAAC,EAAE,qBAAqB,CAAC,MAAM,CAAA;IACrC,QAAQ,CAAC,EAAE,iBAAiB,CAAC,GAAG,EAAE,CAAA;CACnC,CAAA"}

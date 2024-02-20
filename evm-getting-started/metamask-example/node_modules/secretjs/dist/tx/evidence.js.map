@@ -1,0 +1,1 @@
+{"version":3,"file":"evidence.js","sourceRoot":"","sources":["../../src/tx/evidence.ts"],"names":[],"mappings":";;;;;;;;;;;;AASA;;;GAGG;AACH,MAAa,iBAAiB;IAC5B,YAAmB,MAA+B;QAA/B,WAAM,GAAN,MAAM,CAAyB;IAAG,CAAC;IAEhD,OAAO;;YACX,MAAM,IAAI,KAAK,CAAC,oCAAoC,CAAC,CAAC;QACxD,CAAC;KAAA;IAEK,OAAO;;YACX,MAAM,IAAI,KAAK,CAAC,oCAAoC,CAAC,CAAC;QACxD,CAAC;KAAA;CACF;AAVD,8CAUC"}

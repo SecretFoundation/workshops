@@ -1,0 +1,1 @@
+{"version":3,"file":"genesis.pb.d.ts","sourceRoot":"","sources":["../../../../../src/grpc_gateway/cosmos/crisis/v1beta1/genesis.pb.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,qBAAqB,MAAM,4BAA4B,CAAA;AACnE,oBAAY,YAAY,GAAG;IACzB,YAAY,CAAC,EAAE,qBAAqB,CAAC,IAAI,CAAA;CAC1C,CAAA"}
