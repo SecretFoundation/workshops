@@ -8,7 +8,7 @@ const wallet = new Wallet(
 );
 
 const contract_wasm = fs.readFileSync(
-  "../secret-contract-example/contract.wasm.gz"
+  "../secret-contract-example/target/wasm32-unknown-unknown/release/secret_contract_example.wasm"
 );
 
 const secretjs = new SecretNetworkClient({
