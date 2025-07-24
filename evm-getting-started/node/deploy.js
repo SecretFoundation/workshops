@@ -1,4 +1,6 @@
-import { SecretNetworkClient, Wallet } from "secretjs";
+import { SecretNetworkClient, Wallet } from "secretjs"; 
+// Edit by ew8668 for Galxe task
+
 import * as fs from "fs";
 import dotenv from "dotenv";
 dotenv.config();
@@ -85,4 +87,5 @@ upload_contract()
     console.error("Error:", error);
   });
 
-console.log("test");
+console.log("test"); 
+
